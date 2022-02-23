@@ -1,1 +1,6 @@
 make
+git
+vim
+zsh
+curl
+wget

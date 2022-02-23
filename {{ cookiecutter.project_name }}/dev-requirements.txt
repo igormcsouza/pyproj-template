@@ -1,3 +1,4 @@
 tox
+wheel
 pre-commit
 pip-tools
